@@ -15,4 +15,4 @@ mudarBG(corEscolhida);
 
 //É possível colocar o document.body.style.backgroundColor = cor, dentro de uma variável. Pouparia tempo.
 //Esse operador '||'(ou) não era do meu conhecimento. Pesquisei sobre os Operadores Lógicos em .js no google mesmo
-//para usá-lo aqui.
+//para usá-lo aqui..
